@@ -4,8 +4,9 @@ unity-scrolly
 A Touch/Drag scroll list implementation using Unity GUI (4.6+)
 
 (Update 20-Feb-2015)
-= Added simple cell pooling
+- Added simple cell pooling
 - Updated project to work with latest Unity (4.6.3) 
+- Added class (UIList.cs)
 
 Usage:
 
